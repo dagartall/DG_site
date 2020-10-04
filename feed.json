@@ -10,6 +10,82 @@
     },
     "items": [
         {
+            "id": "https://david-godefroy.com/le-message-se-croit-fou.html",
+            "url": "https://david-godefroy.com/le-message-se-croit-fou.html",
+            "title": "Le message se croit fou ",
+            "summary": "Il porte son apparence à l’effigie du saint crétois, Les propos s’effacent dans son esprit, Vénère à outrance l’hégémonie de qui de droit, La tâche&hellip;",
+            "content_html": "<figure class=\"post__image\"><img src=\"https://david-godefroy.com/media/posts/51/le_message_se_croit_fou-8.jpg\" alt=\"\" width=\"2700\" height=\"2700\"></figure>\n<figure class=\"post__image\">Il porte son apparence à l’effigie du saint crétois,<br>Les propos s’effacent dans son esprit,<br>Vénère à outrance l’hégémonie de qui de droit,<br>La tâche est méprisante,<br>S’il ne reste par négligence qu’une harmonie,<br>Il transforme le mot en présage,<br>Une virgule en infamie,<br>Le regard se porte sur son âme,<br>Et reste encre sur le parvis…<br><br>david godefroy</figure>",
+            "image": "https://david-godefroy.com/media/posts/51/le_message_se_croit_fou-8.jpg",
+            "author": {
+                "name": "david-godefroy"
+            },
+            "tags": [
+                   "portraitphotography",
+                   "photographiedart",
+                   "modernart",
+                   "fineartphography",
+                   "contemporary ",
+                   "artwork",
+                   "artofportrait",
+                   "artgallery",
+                   "artcurator",
+                   "artcontemporain"
+            ],
+            "date_published": "2020-10-04T21:56:45+02:00",
+            "date_modified": "2020-10-04T21:56:45+02:00"
+        },
+        {
+            "id": "https://david-godefroy.com/reflux-dextase.html",
+            "url": "https://david-godefroy.com/reflux-dextase.html",
+            "title": "Reflux d’extase",
+            "summary": "Extatique prédominance à l’oubli, Un instant à la clé dans l’histoire, Prémonition illusoire, S’est perdue dans la perception, Crépusculaire prérogative en liste diffuse, Nous perdons&hellip;",
+            "content_html": "<figure class=\"post__image\"><img src=\"https://david-godefroy.com/media/posts/50/reflux-dextase-7.jpg\" alt=\"\" width=\"2700\" height=\"2700\"></figure>\n<figure class=\"post__image\">Extatique prédominance à l’oubli,<br>Un instant à la clé dans l’histoire,<br>Prémonition illusoire,<br>S’est perdue dans la perception,<br>Crépusculaire prérogative en liste diffuse,<br>Nous perdons le sens d’être,<br>Reprenons le pouvoir de jouir,<br>Humainement sauvés par nos émotions,<br>Loin d’une prédation politique,<br>Autrefois l’âme s’éduquait dans la liberté…<br><br>david godefroy</figure>",
+            "image": "https://david-godefroy.com/media/posts/50/reflux-dextase-7.jpg",
+            "author": {
+                "name": "david-godefroy"
+            },
+            "tags": [
+                   "éditionlimité",
+                   "photographiedart",
+                   "dematerialism",
+                   "contemporaryartcurator",
+                   "collector",
+                   "artsy",
+                   "artsper",
+                   "artpromote",
+                   "artnet",
+                   "artfollowers",
+                   "artcontemporain",
+                   "abstractmag"
+            ],
+            "date_published": "2020-10-04T21:52:26+02:00",
+            "date_modified": "2020-10-04T21:52:26+02:00"
+        },
+        {
+            "id": "https://david-godefroy.com/impact-temps-seconde.html",
+            "url": "https://david-godefroy.com/impact-temps-seconde.html",
+            "title": "Impact temps seconde",
+            "summary": " Et miroir d’osmose cruelle; Concentre son élan en un point; Donner pour un espace que se fend; En de multiples lamelles ionisantes; Subterfuge récréatif;&hellip;",
+            "content_html": "<p><img class=\"post__image post__image--full\" src=\"https://david-godefroy.com/media/posts/49/impact-temps-secondes-7.jpg\" alt=\"\" width=\"2700\" height=\"2700\"></p>\n<p> </p>\n<p>Et miroir d’osmose cruelle;<br>Concentre son élan en un point;<br>Donner pour un espace que se fend;<br>En de multiples lamelles ionisantes;<br>Subterfuge récréatif;<br>Pointe dans une direction définitive;<br>Créative jonction de l’infinitude;<br>Subliminal regard à travers l’inconnue;<br>Se contracte sur le vide;<br>Pour mieux s’accrocher la poussière;<br>Infinie rhétorique;<br>Se sublime à jamais</p>\n<p> </p>\n<p>David Godefroy</p>",
+            "image": "https://david-godefroy.com/media/posts/49/impact-temps-secondes-7.jpg",
+            "author": {
+                "name": "david-godefroy"
+            },
+            "tags": [
+                   "éditionlimité",
+                   "photographie",
+                   "collector",
+                   "artsper",
+                   "artcurator",
+                   "artcontemporain",
+                   "artcollection",
+                   "artbasel",
+                   "abstractphotography"
+            ],
+            "date_published": "2020-10-04T21:23:58+02:00",
+            "date_modified": "2020-10-04T21:28:11+02:00"
+        },
+        {
             "id": "https://david-godefroy.com/incredulite-lascive-au-pourpoint.html",
             "url": "https://david-godefroy.com/incredulite-lascive-au-pourpoint.html",
             "title": "Incrédulité lascive au pourpoint",
@@ -183,80 +259,6 @@
             ],
             "date_published": "2019-05-20T11:55:50+02:00",
             "date_modified": "2019-05-20T11:55:50+02:00"
-        },
-        {
-            "id": "https://david-godefroy.com/un-empire-pour-ma-confusion.html",
-            "url": "https://david-godefroy.com/un-empire-pour-ma-confusion.html",
-            "title": "Un empire pour ma confusion",
-            "summary": "Le pardon pour une danse, Une marche pour vider le sens, Réfractaire à l’ordonnance, Je me plie, me contracte, Glisse entre les flacons, Manufacturé et&hellip;",
-            "content_html": "<p align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Le pardon pour une danse,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Une marche pour vider le sens,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Réfractaire à l’ordonnance,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Je me plie, me contracte,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Glisse entre les flacons,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Manufacturé et génératif,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Expansion progressivement démente,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Une spirale ascensionnelle marque la direction…</span></span></span></p>\n<p align=\"left\">david godefroy</p>",
-            "image": "https://david-godefroy.com/media/posts/41/Un-empire-pour-ma-confusion.jpeg",
-            "author": {
-                "name": "david-godefroy"
-            },
-            "tags": [
-                   "photographiedart",
-                   "modernart",
-                   "hifructosemag",
-                   "gallery",
-                   "davidgodefroy",
-                   "darkmattergallery",
-                   "contemporaryart",
-                   "beautifulbizarre",
-                   "artinfluencer",
-                   "artgallery"
-            ],
-            "date_published": "2019-05-20T11:50:38+02:00",
-            "date_modified": "2019-05-20T11:50:38+02:00"
-        },
-        {
-            "id": "https://david-godefroy.com/denaturation-de-la-determination.html",
-            "url": "https://david-godefroy.com/denaturation-de-la-determination.html",
-            "title": "Dénaturation de la détermination",
-            "summary": "Surpris dans le déroulement de la procédure, L’algorithme se perd en chemin, Une voie pavée de déterminisme, Un instant suspendu dans l’air, Se retrouve à&hellip;",
-            "content_html": "<p align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Surpris dans le déroulement de la procédure,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">L’algorithme se perd en chemin,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Une voie pavée de déterminisme,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Un instant suspendu dans l’air,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Se retrouve à frayer avec le hasard,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Le bruit du vent est nouveau et frais,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Bien sûr, on l’a préparé également à ce genre de déconvenue,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Mais face au fait il oublie le chemin d’accès,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Dans sa corticoïde masse une rupture se dévoile,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Le voilà à l’agonie procédurale,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Il trépasse…</span></span></span><br> <br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">david godefroy</span></span></span></p>",
-            "image": "https://david-godefroy.com/media/posts/40/Denaturation-de-la-determination.jpeg",
-            "author": {
-                "name": "david-godefroy"
-            },
-            "tags": [
-                   "saatchiart",
-                   "museum",
-                   "instagram",
-                   "artoftheday",
-                   "artnet",
-                   "artgallery",
-                   "artcritic",
-                   "artcollection",
-                   "artartland"
-            ],
-            "date_published": "2019-05-20T11:46:43+02:00",
-            "date_modified": "2019-05-20T11:46:43+02:00"
-        },
-        {
-            "id": "https://david-godefroy.com/en-amour-par-infinite.html",
-            "url": "https://david-godefroy.com/en-amour-par-infinite.html",
-            "title": "En amour par infinité ",
-            "summary": "Une agréable symbiose, Amalgame d’impression et de réalité, Se subjugue par non interprétation, La sensibilité du réel, S’émerveille par l’absence de doutes, Merveilleuse interprétation imaginative,&hellip;",
-            "content_html": "<p align=\"left\"><span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Une agréable symbiose,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Amalgame d’impression et de réalité,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Se subjugue par non interprétation,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">La sensibilité du réel,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">S’émerveille par l’absence de doutes,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Merveilleuse interprétation imaginative,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Se concrétise dans l’instant,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">La matière surgit du néant,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Une chaleur sans précédent,</span></span></span><br> P<span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">alpite entre deux systèmes sanguins,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Qui n’ont plus jamais peur du lendemain,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">L’agglomération cellulaire prend son envol pour ne plus toucher terre,</span></span></span><br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">Devient maelstrom d’étoiles écho aux âmes sidérales…</span></span></span><br> <br> <span style=\"color: #000000;\"><span style=\"font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\"><span style=\"font-size: small;\">david godefroy</span></span></span></p>",
-            "image": "https://david-godefroy.com/media/posts/39/En-amour-par-infinite.jpeg",
-            "author": {
-                "name": "david-godefroy"
-            },
-            "tags": [
-                   "poetry",
-                   "newcontemporary",
-                   "museum",
-                   "galerie",
-                   "contemporaryartcurator",
-                   "contemporaryart",
-                   "artgallery",
-                   "artcurator",
-                   "artcontemporain",
-                   "artcollection"
-            ],
-            "date_published": "2019-05-03T11:55:45+02:00",
-            "date_modified": "2019-05-03T11:55:45+02:00"
         }
     ]
 }
